@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to top, black, #8896d3);
+}
+.lefting{
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+
+.list-group{
+    margin-left: 15px;
+    margin-right: 7px;
+}
+
+.navbar-brand{
+
+    margin-left: 7px;
+
+}
+
+.navbar{
+    background-color: #483D8B;
+}
